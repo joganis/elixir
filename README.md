@@ -14,7 +14,7 @@ Por eso, Erlang se usa mucho en telecomunicaciones, sistemas financieros y aplic
 
 ## **2. Palabras y conceptos importantes**
 
-Voy a explicarte cada término sin asumir que ya lo conoces:
+
 
 ### **BEAM**
 
